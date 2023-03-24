@@ -1,4 +1,4 @@
-defmodule Sandbox do
+defmodule Sandbox.HelloWorld do
   @moduledoc """
   Documentation for `Sandbox.HelloWorld`.
   """
