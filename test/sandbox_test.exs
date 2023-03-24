@@ -1,8 +1,9 @@
 defmodule SandboxTest do
   use ExUnit.Case
-  doctest Sandbox
+  doctest Sandbox.HelloWorld
+  doctest Sandbox.HelloRecursion
+  doctest Sandbox.HelloSpec
 
-  # hello
   test "greets the world" do
     assert Sandbox.hello() == :world
   end

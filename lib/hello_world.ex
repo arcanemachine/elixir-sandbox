@@ -4,7 +4,7 @@ defmodule Sandbox.HelloWorld do
   """
 
   @doc """
-  Hello world.
+  Hello world!
 
   ## Examples
 
