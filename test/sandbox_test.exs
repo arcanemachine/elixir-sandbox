@@ -9,6 +9,6 @@ defmodule SandboxTest do
   end
 
   test "greets the world" do
-    assert Sandbox.hello() == :world
+    assert Sandbox.HelloWorld.hello() == :world
   end
 end
